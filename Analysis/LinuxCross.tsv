@@ -1,8 +1,0 @@
-s_env	i7-3770K(Ivy Bridge)	Xeon E5-2690 v3(Haswell)	Cerelon N3450(Apollo Lake)	i7-9700K(Coffee Lake Refresh)	Ryzen 7 1700X         (Zen)	Ryzen 7 1700X         (Zen)	Graviton(Graviton)
-i7-3770K(Ivy Bridge)	ー	○	○	○	○	○	○
-Xeon E5-2690 v3(Haswell)	○	ー	○	○	○	○	○
-Cerelon N3450(Apollo Lake)	○	○	ー	○	○	○	○
-i7-9700K(Coffee Lake Refresh)	○	○	○	ー	○	○	○
-Ryzen 7 1700X         (Zen)	○	○	○	○	ー	○	○
-Ryzen 7 1700X         (Zen)	○	○	○	○	○	ー	○
-Graviton(Graviton)	○	○	○	○	○	○	ー

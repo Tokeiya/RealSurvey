@@ -1,8 +1,0 @@
-s_env	i5-3337U(Ivy Bridge)	i7-3770K(Ivy Bridge)	Celeron 2957U(Haswell)	i5-4200U(Haswell)	i3-6006U(Skylake)	i5-7200U(Kaby Lake)	Ryzen 7 1700X(Zen)
-i5-3337U(Ivy Bridge)	ー	○	○	○	○	○	○
-i7-3770K(Ivy Bridge)	○	ー	○	○	○	○	○
-Celeron 2957U(Haswell)	○	○	ー	○	○	○	○
-i5-4200U(Haswell)	○	○	○	ー	○	○	○
-i3-6006U(Skylake)	○	○	○	○	ー	○	○
-i5-7200U(Kaby Lake)	○	○	○	○	○	ー	○
-Ryzen 7 1700X(Zen)	○	○	○	○	○	○	ー

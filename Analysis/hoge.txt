@@ -1,2 +1,0 @@
-sid	second	1 x64Windows	2 x64WindowsFMA3	3 Linux	4 macOS
-1	1 x86Windows	
