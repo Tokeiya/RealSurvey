@@ -1,0 +1,3 @@
+/mnt/g/CLion/cmake-build-debug-wsl_gcc/CMakeFiles/rebuild_cache.dir
+/mnt/g/CLion/cmake-build-debug-wsl_gcc/CMakeFiles/CLion.dir
+/mnt/g/CLion/cmake-build-debug-wsl_gcc/CMakeFiles/edit_cache.dir

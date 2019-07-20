@@ -1,0 +1,5 @@
+first_order	second_order	first_environment	second_environment	result
+20	20	i7-7567U(Kaby Lake)	i7-7567U(Kaby Lake)	ー
+20	21	i7-7567U(Kaby Lake)	i5-8500B(Coffee Lake)	○
+21	20	i5-8500B(Coffee Lake)	i7-7567U(Kaby Lake)	○
+21	21	i5-8500B(Coffee Lake)	i5-8500B(Coffee Lake)	ー

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CLion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/g/CLion/cmake-build-debug-wsl_clang"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/g/CLion/cmake-build-debug-wsl_clang"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CLion">
+				<Option output="/mnt/g/CLion/cmake-build-debug-wsl_clang/CLion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/g/CLion/cmake-build-debug-wsl_clang"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-6.0/lib/clang/6.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 CLion"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CLion/fast">
+				<Option output="/mnt/g/CLion/cmake-build-debug-wsl_clang/CLion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/g/CLion/cmake-build-debug-wsl_clang"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-6.0/lib/clang/6.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 CLion/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/g/CLion/cmake-build-debug-wsl_clang"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/CLion/cmake-build-debug-wsl_clang/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/g/CLion/e_rem_pio2.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/input_parameters.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/input_parameters.h">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/k_cos.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/k_rem_pio2.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/k_sin.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/k_tan.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/main.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/my_math.h">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_copysign.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_cos.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_fabs.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_floor.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_scalbn.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_sin.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/s_tan.c">
+			<Option target="CLion"/>
+		</Unit>
+		<Unit filename="/mnt/g/CLion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

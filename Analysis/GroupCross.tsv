@@ -1,0 +1,6 @@
+s_env	Xeon E3-1230 V2(Sandy Bridge)	Ryzen 7 1700X(Zen)	Xeon E5-2690 v3(Haswell)	i5-8500B(Coffee Lake)	i5-3337U(Ivy Bridge)
+Xeon E3-1230 V2(Sandy Bridge)	ー	×	×	×	×
+Ryzen 7 1700X(Zen)	×	ー	×	×	×
+Xeon E5-2690 v3(Haswell)	×	×	ー	×	×
+i5-8500B(Coffee Lake)	×	×	×	ー	×
+i5-3337U(Ivy Bridge)	×	×	×	×	ー

@@ -1,0 +1,26 @@
+first_order	second_order	first_environment	second_environment	result
+01	01	Xeon E3-1230 V2(Sandy Bridge)	Xeon E3-1230 V2(Sandy Bridge)	ー
+01	12	Xeon E3-1230 V2(Sandy Bridge)	Ryzen 7 1700X(Zen)	×
+01	22	Xeon E3-1230 V2(Sandy Bridge)	i5-3337U(Ivy Bridge)	×
+01	14	Xeon E3-1230 V2(Sandy Bridge)	Xeon E5-2690 v3(Haswell)	×
+01	21	Xeon E3-1230 V2(Sandy Bridge)	i5-8500B(Coffee Lake)	×
+12	01	Ryzen 7 1700X(Zen)	Xeon E3-1230 V2(Sandy Bridge)	×
+12	12	Ryzen 7 1700X(Zen)	Ryzen 7 1700X(Zen)	ー
+12	22	Ryzen 7 1700X(Zen)	i5-3337U(Ivy Bridge)	×
+12	14	Ryzen 7 1700X(Zen)	Xeon E5-2690 v3(Haswell)	×
+12	21	Ryzen 7 1700X(Zen)	i5-8500B(Coffee Lake)	×
+22	01	i5-3337U(Ivy Bridge)	Xeon E3-1230 V2(Sandy Bridge)	×
+22	12	i5-3337U(Ivy Bridge)	Ryzen 7 1700X(Zen)	×
+22	22	i5-3337U(Ivy Bridge)	i5-3337U(Ivy Bridge)	ー
+22	14	i5-3337U(Ivy Bridge)	Xeon E5-2690 v3(Haswell)	×
+22	21	i5-3337U(Ivy Bridge)	i5-8500B(Coffee Lake)	×
+14	01	Xeon E5-2690 v3(Haswell)	Xeon E3-1230 V2(Sandy Bridge)	×
+14	12	Xeon E5-2690 v3(Haswell)	Ryzen 7 1700X(Zen)	×
+14	22	Xeon E5-2690 v3(Haswell)	i5-3337U(Ivy Bridge)	×
+14	14	Xeon E5-2690 v3(Haswell)	Xeon E5-2690 v3(Haswell)	ー
+14	21	Xeon E5-2690 v3(Haswell)	i5-8500B(Coffee Lake)	×
+21	01	i5-8500B(Coffee Lake)	Xeon E3-1230 V2(Sandy Bridge)	×
+21	12	i5-8500B(Coffee Lake)	Ryzen 7 1700X(Zen)	×
+21	22	i5-8500B(Coffee Lake)	i5-3337U(Ivy Bridge)	×
+21	14	i5-8500B(Coffee Lake)	Xeon E5-2690 v3(Haswell)	×
+21	21	i5-8500B(Coffee Lake)	i5-8500B(Coffee Lake)	ー

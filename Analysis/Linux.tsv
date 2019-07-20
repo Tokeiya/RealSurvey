@@ -1,0 +1,50 @@
+first_order	second_order	first_environment	second_environment	result
+13	13	i7-3770K(Ivy Bridge)	i7-3770K(Ivy Bridge)	ー
+13	14	i7-3770K(Ivy Bridge)	Xeon E5-2690 v3(Haswell)	○
+13	15	i7-3770K(Ivy Bridge)	Cerelon N3450(Apollo Lake)	○
+13	16	i7-3770K(Ivy Bridge)	i7-9700K(Coffee Lake Refresh)	○
+13	17	i7-3770K(Ivy Bridge)	Ryzen 7 1700X         (Zen)	○
+13	18	i7-3770K(Ivy Bridge)	Ryzen 7 1700X         (Zen)	○
+13	19	i7-3770K(Ivy Bridge)	Graviton(Graviton)	○
+14	13	Xeon E5-2690 v3(Haswell)	i7-3770K(Ivy Bridge)	○
+14	14	Xeon E5-2690 v3(Haswell)	Xeon E5-2690 v3(Haswell)	ー
+14	15	Xeon E5-2690 v3(Haswell)	Cerelon N3450(Apollo Lake)	○
+14	16	Xeon E5-2690 v3(Haswell)	i7-9700K(Coffee Lake Refresh)	○
+14	17	Xeon E5-2690 v3(Haswell)	Ryzen 7 1700X         (Zen)	○
+14	18	Xeon E5-2690 v3(Haswell)	Ryzen 7 1700X         (Zen)	○
+14	19	Xeon E5-2690 v3(Haswell)	Graviton(Graviton)	○
+15	13	Cerelon N3450(Apollo Lake)	i7-3770K(Ivy Bridge)	○
+15	14	Cerelon N3450(Apollo Lake)	Xeon E5-2690 v3(Haswell)	○
+15	15	Cerelon N3450(Apollo Lake)	Cerelon N3450(Apollo Lake)	ー
+15	16	Cerelon N3450(Apollo Lake)	i7-9700K(Coffee Lake Refresh)	○
+15	17	Cerelon N3450(Apollo Lake)	Ryzen 7 1700X         (Zen)	○
+15	18	Cerelon N3450(Apollo Lake)	Ryzen 7 1700X         (Zen)	○
+15	19	Cerelon N3450(Apollo Lake)	Graviton(Graviton)	○
+16	13	i7-9700K(Coffee Lake Refresh)	i7-3770K(Ivy Bridge)	○
+16	14	i7-9700K(Coffee Lake Refresh)	Xeon E5-2690 v3(Haswell)	○
+16	15	i7-9700K(Coffee Lake Refresh)	Cerelon N3450(Apollo Lake)	○
+16	16	i7-9700K(Coffee Lake Refresh)	i7-9700K(Coffee Lake Refresh)	ー
+16	17	i7-9700K(Coffee Lake Refresh)	Ryzen 7 1700X         (Zen)	○
+16	18	i7-9700K(Coffee Lake Refresh)	Ryzen 7 1700X         (Zen)	○
+16	19	i7-9700K(Coffee Lake Refresh)	Graviton(Graviton)	○
+17	13	Ryzen 7 1700X         (Zen)	i7-3770K(Ivy Bridge)	○
+17	14	Ryzen 7 1700X         (Zen)	Xeon E5-2690 v3(Haswell)	○
+17	15	Ryzen 7 1700X         (Zen)	Cerelon N3450(Apollo Lake)	○
+17	16	Ryzen 7 1700X         (Zen)	i7-9700K(Coffee Lake Refresh)	○
+17	17	Ryzen 7 1700X         (Zen)	Ryzen 7 1700X         (Zen)	ー
+17	18	Ryzen 7 1700X         (Zen)	Ryzen 7 1700X         (Zen)	○
+17	19	Ryzen 7 1700X         (Zen)	Graviton(Graviton)	○
+18	13	Ryzen 7 1700X         (Zen)	i7-3770K(Ivy Bridge)	○
+18	14	Ryzen 7 1700X         (Zen)	Xeon E5-2690 v3(Haswell)	○
+18	15	Ryzen 7 1700X         (Zen)	Cerelon N3450(Apollo Lake)	○
+18	16	Ryzen 7 1700X         (Zen)	i7-9700K(Coffee Lake Refresh)	○
+18	17	Ryzen 7 1700X         (Zen)	Ryzen 7 1700X         (Zen)	○
+18	18	Ryzen 7 1700X         (Zen)	Ryzen 7 1700X         (Zen)	ー
+18	19	Ryzen 7 1700X         (Zen)	Graviton(Graviton)	○
+19	13	Graviton(Graviton)	i7-3770K(Ivy Bridge)	○
+19	14	Graviton(Graviton)	Xeon E5-2690 v3(Haswell)	○
+19	15	Graviton(Graviton)	Cerelon N3450(Apollo Lake)	○
+19	16	Graviton(Graviton)	i7-9700K(Coffee Lake Refresh)	○
+19	17	Graviton(Graviton)	Ryzen 7 1700X         (Zen)	○
+19	18	Graviton(Graviton)	Ryzen 7 1700X         (Zen)	○
+19	19	Graviton(Graviton)	Graviton(Graviton)	ー

@@ -1,0 +1,50 @@
+first_order	second_order	first_environment	second_environment	result
+22	22	i5-3337U(Ivy Bridge)	i5-3337U(Ivy Bridge)	ー
+22	23	i5-3337U(Ivy Bridge)	i7-3770K(Ivy Bridge)	○
+22	24	i5-3337U(Ivy Bridge)	Celeron 2957U(Haswell)	○
+22	25	i5-3337U(Ivy Bridge)	i5-4200U(Haswell)	○
+22	26	i5-3337U(Ivy Bridge)	i3-6006U(Skylake)	○
+22	27	i5-3337U(Ivy Bridge)	i5-7200U(Kaby Lake)	○
+22	28	i5-3337U(Ivy Bridge)	Ryzen 7 1700X(Zen)	○
+23	22	i7-3770K(Ivy Bridge)	i5-3337U(Ivy Bridge)	○
+23	23	i7-3770K(Ivy Bridge)	i7-3770K(Ivy Bridge)	ー
+23	24	i7-3770K(Ivy Bridge)	Celeron 2957U(Haswell)	○
+23	25	i7-3770K(Ivy Bridge)	i5-4200U(Haswell)	○
+23	26	i7-3770K(Ivy Bridge)	i3-6006U(Skylake)	○
+23	27	i7-3770K(Ivy Bridge)	i5-7200U(Kaby Lake)	○
+23	28	i7-3770K(Ivy Bridge)	Ryzen 7 1700X(Zen)	○
+24	22	Celeron 2957U(Haswell)	i5-3337U(Ivy Bridge)	○
+24	23	Celeron 2957U(Haswell)	i7-3770K(Ivy Bridge)	○
+24	24	Celeron 2957U(Haswell)	Celeron 2957U(Haswell)	ー
+24	25	Celeron 2957U(Haswell)	i5-4200U(Haswell)	○
+24	26	Celeron 2957U(Haswell)	i3-6006U(Skylake)	○
+24	27	Celeron 2957U(Haswell)	i5-7200U(Kaby Lake)	○
+24	28	Celeron 2957U(Haswell)	Ryzen 7 1700X(Zen)	○
+25	22	i5-4200U(Haswell)	i5-3337U(Ivy Bridge)	○
+25	23	i5-4200U(Haswell)	i7-3770K(Ivy Bridge)	○
+25	24	i5-4200U(Haswell)	Celeron 2957U(Haswell)	○
+25	25	i5-4200U(Haswell)	i5-4200U(Haswell)	ー
+25	26	i5-4200U(Haswell)	i3-6006U(Skylake)	○
+25	27	i5-4200U(Haswell)	i5-7200U(Kaby Lake)	○
+25	28	i5-4200U(Haswell)	Ryzen 7 1700X(Zen)	○
+26	22	i3-6006U(Skylake)	i5-3337U(Ivy Bridge)	○
+26	23	i3-6006U(Skylake)	i7-3770K(Ivy Bridge)	○
+26	24	i3-6006U(Skylake)	Celeron 2957U(Haswell)	○
+26	25	i3-6006U(Skylake)	i5-4200U(Haswell)	○
+26	26	i3-6006U(Skylake)	i3-6006U(Skylake)	ー
+26	27	i3-6006U(Skylake)	i5-7200U(Kaby Lake)	○
+26	28	i3-6006U(Skylake)	Ryzen 7 1700X(Zen)	○
+27	22	i5-7200U(Kaby Lake)	i5-3337U(Ivy Bridge)	○
+27	23	i5-7200U(Kaby Lake)	i7-3770K(Ivy Bridge)	○
+27	24	i5-7200U(Kaby Lake)	Celeron 2957U(Haswell)	○
+27	25	i5-7200U(Kaby Lake)	i5-4200U(Haswell)	○
+27	26	i5-7200U(Kaby Lake)	i3-6006U(Skylake)	○
+27	27	i5-7200U(Kaby Lake)	i5-7200U(Kaby Lake)	ー
+27	28	i5-7200U(Kaby Lake)	Ryzen 7 1700X(Zen)	○
+28	22	Ryzen 7 1700X(Zen)	i5-3337U(Ivy Bridge)	○
+28	23	Ryzen 7 1700X(Zen)	i7-3770K(Ivy Bridge)	○
+28	24	Ryzen 7 1700X(Zen)	Celeron 2957U(Haswell)	○
+28	25	Ryzen 7 1700X(Zen)	i5-4200U(Haswell)	○
+28	26	Ryzen 7 1700X(Zen)	i3-6006U(Skylake)	○
+28	27	Ryzen 7 1700X(Zen)	i5-7200U(Kaby Lake)	○
+28	28	Ryzen 7 1700X(Zen)	Ryzen 7 1700X(Zen)	ー
